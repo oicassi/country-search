@@ -1,7 +1,7 @@
 # COUNTRY SEARCH
 ---   
 ## Abstract   
-This is a simple application made for learn React. The goal of this application is to list the countries with their flag and population alongside the sum of all countries population. The user can use the input field to filter the countries just by typing the name of a country. The list of countries and their attributes is being fetched from [https://restcountries.eu/rest/v2/all](Rest Countries).
+This is a simple application made for learn React. The goal of this application is to list the countries with their flag and population alongside the sum of all countries population. The user can use the input field to filter the countries just by typing the name of a country. The list of countries and their attributes is being fetched from [Rest Countries](https://restcountries.eu/rest/v2/all).
    
 ## Overview
 Here is a screenshot of the application
